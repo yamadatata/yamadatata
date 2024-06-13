@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linguistics, Phonetics, Acoustics, NLP and so on.
 - 🌱 I’m currently learning linguistics and dialectology in Japan.
 - 💞️ I’m looking to collaborate on digital humanities and NLP.
-- 📫 How to reach me: yamada@ga.ariake-nct.ac.jp
+- 📫 How to reach me: yamada[at]ga.ariake-nct.ac.jp
 - 😄 Pronouns: He
 
 <!---
